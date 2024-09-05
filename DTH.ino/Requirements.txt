@@ -1,0 +1,19 @@
+1. Install the ESP8266 Board:
+
+   - Open Arduino IDE.
+
+   - Go to File > Preferences.
+
+   - In "Additional Board Manager URLs," add: `http://arduino.esp8266.com/stable/package_esp8266com_index.json`.
+
+   - Go to Tools > Board > Board Manager and search for "ESP8266" and install it.
+
+ 
+
+2. Install the DHT Library:
+
+   - Go to Sketch > Include Library > Manage Libraries.
+
+   - Search for "DHT sensor library" by Adafruit and install it.
+
+   - Install the "Adafruit Unified Sensor" library if prompted.
